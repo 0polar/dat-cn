@@ -1,4 +1,5 @@
-# Chinese translation of [Dat protocol whitepaper](https://github.com/datproject/docs/blob/master/papers/dat-paper.md)
+# Dat 協議白皮書 - 中文翻譯
+### Chinese translation of [Dat protocol whitepaper](https://github.com/datproject/docs/blob/master/papers/dat-paper.md)
 
 標題：Dat - 分佈式數據集同步和版本控制  
 日期：2017 年 5 月（最後更新時間：2018 年 1 月）  
